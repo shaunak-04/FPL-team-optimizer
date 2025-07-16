@@ -1,5 +1,11 @@
 # ⚽ FPL-team-optimizer
 
+
+
+## 🌐 Live App
+
+👉 [![View in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fpl-team-optimizer.streamlit.app/)
+
 A machine learning-based Fantasy Premier League (FPL) optimizer that predicts player points for upcoming gameweeks and selects the best possible team using Integer Linear Programming (ILP).  
 This project combines data science, machine learning, and optimization to help you win your mini-leagues!
 
