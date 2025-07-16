@@ -56,10 +56,39 @@ Implemented using **PuLP** (Linear Programming in Python).
   python -m streamlit run app.py
 
 
+<h2 align="center">⚽ App Screenshots</h2>
+
+<p align="center">
+  <img src="assets/Main%20output.png" alt="Main output" width="400"/>
+  <img src="assets/Player%20cards.png" alt="Player cards" width="400"/>
+</p>
+
+<p align="center">
+  <b>Main output</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Player cards</b>
+</p>
+
+<p align="center">
+  <img src="assets/Team%20lineup.png" alt="Team lineup" width="400"/>
+  <img src="assets/Team%20list.png" alt="Team list" width="400"/>
+</p>
+
+<p align="center">
+  <b>Team lineup</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Team list</b>
+</p>
+
+
+
 
 🧑‍💻 Author
-Shaunak Paranjape
+
+-Shaunak Paranjape
+
 Feel free to connect or star ⭐ the repo if you found it useful!
+
+
+
 
 
 
